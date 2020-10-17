@@ -21,7 +21,7 @@ This is deployed application, so no installation is required.
 Simple - give your note a title and fill in the body section. When complete, click "save" in the upper right corner. To delete, click the "trashcan" icon next to the note you want to delete. 
 
 Screenshot of the application:<br>
-<img src="./readme-screenshots/screenshot.jpg" width="550px">
+<img src="./readme-screenshots/Screenshot.jpg" width="550px">
 
 ## Contribution
 Submit bug and feature requests as issues through the GitHub repo.
